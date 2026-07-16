@@ -1,0 +1,19 @@
+# Asosiy bot
+aiogram
+wikipedia
+requests
+instaloader
+
+# 🎙️ TEXT -> VOICE
+edge-tts
+
+# 🎧 VOICE -> TEXT
+openai-whisper
+
+# 🖼️ RASM PROCESSING / 🎭 YUZ FILTRI / 🧼 FON OLIB TASHLASH / 🔤 OCR
+opencv-python
+Pillow
+numpy
+mediapipe
+rembg
+easyocr
