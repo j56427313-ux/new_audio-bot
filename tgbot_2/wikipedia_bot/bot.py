@@ -10,8 +10,8 @@ from aiogram.enums import ChatMemberStatus
 from aiogram.filters import Command, CommandStart
 import logging  
 import wikipedia  # pip install wikipedia
-from tgbot_2.wikipedia_bot.buttons import menyu
-from tgbot_2.wikipedia_bot.config import API_TOKEN, CHANNEL_USERNAME, CHANNEL_URL
+from buttons import menyu
+from config import API_TOKEN, CHANNEL_USERNAME, CHANNEL_URL
 from aiogram.fsm.state import State
 from aiogram.filters import StateFilter
 from aiogram.fsm.context import FSMContext
