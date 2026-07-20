@@ -1,1 +1,0 @@
-workon: python bot.py
